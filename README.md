@@ -1,2 +1,6 @@
 # Stone_paper_scissor
 This is a basic children Game for some funn!!!!!!
+downlaod the code first code is writen in the java
+
+after that compile the code and run ... 
+according to the instraction....
